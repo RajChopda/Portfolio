@@ -1,0 +1,21 @@
+.avtarImg {
+    width: 170px;
+    margin: 5px auto;
+    border-radius: 50%;
+}
+
+.avtar {
+    width: 50%;
+    margin: 5px auto;
+    text-align: center;
+    color: #f1f1f1;
+    background-color: rgb(102, 162, 211);
+}
+
+.name {
+    color: rgb(255, 255, 255);
+    margin: 5px 0px;
+    padding: 5px;
+    font-size: 35px;
+    font-weight: 600;
+}
